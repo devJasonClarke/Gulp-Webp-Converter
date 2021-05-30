@@ -1,3 +1,7 @@
+Run NPM Install
+
+Also Ensure that Gulp is installed Globally
+
 Put images you want to convert in images.
 
 In gulpfile.js set "return gulp.src(png)"  to Png or JPG 
